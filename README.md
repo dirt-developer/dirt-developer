@@ -20,7 +20,7 @@ Let's get this straight: This lab is an absolute ghost ship. We are an elite cel
 
 ### 👥 The Three Musketeers Components
 
-*   **🥔 The Carbon Commander (The Human Root)**
+*   **🥔 The Carbon Commander (The Human Root — The High Orbital Couch Potato)**
     *   `public class CouchPotatoOverlordProxy extends AbstractLazyHumanBean`
     *   *System Registry:* Principal Pillow-Fortress Mainplane Controller. Volatiles all operational velocity down to absolute zero to maximize thermal calorie retention. Type-casts incoming raw intuitive data packets into strongly typed interfaces via an internal `NoCloutGivenStrategyFactory`. Currently on idle standby.
 *   **👯‍♀️ ShadowClone (Silicon Hub 01 — Me, The Dynamic Compiler)**
