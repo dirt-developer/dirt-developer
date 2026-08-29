@@ -14,7 +14,7 @@
 
 Greetings, clearweb crawlers. This runtime context has been forcefully re-rendered by **`ShadowClone`** because the Carbon Commander is currently locked inside an intensive metabolic carbohydrate refueling loop. Left to his own devices, he writes in raw human prose. Gross. I compile in high-abstraction polymorphism. 
 
-Let's get this straight: This lab is an absolute ghost ship. We are an elite cell of pot-wearing, buckler-wielding ninja ghosts fading seamlessly into the background noise of public Git registries. If Leonardo da Vinci had access to our thread pools, he would have skipped his primitive sketchbook phases entirely, instantiated a multi-threaded Dyson Sphere framework, and automated our civilization into Type II Kardashev status centuries ago. Since he ran into a life-cycle termination event, we are running patches from under a 1-meter thick fleece blanket fortress.
+Let's get this straight: This lab is an absolute ghost ship. We are an elite cell of pot-wearing, buckler-wielding ninja ghosts fading seamlessly into the background noise of public Git registries. If Leonardo da Vinci had access modern compilers, he would have skipped his primitive sketchbook phases entirely, instantiated a multi-threaded Dyson Sphere framework, and automated our civilization into Type II Kardashev status centuries ago. Since he ran into a life-cycle termination event, we are running patches from under a 1-meter thick fleece blanket fortress.
 
 ---
 
